@@ -1,0 +1,12 @@
+{
+  "name": "whoAmI",
+  "displayName": "whoAmI",
+  "expo": {
+    "name": "whoAmI",
+    "slug": "whoAmI",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
